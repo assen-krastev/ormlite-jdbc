@@ -185,13 +185,13 @@
 							<goal>jar</goal>
 						</goals>
 						<configuration>
-							<showPackage>false</showPackage>
+<!--							<showPackage>false</showPackage>-->
 							<additionalparam>-tag inheritDoc:X ${disableDoclint}</additionalparam>
 						</configuration>
 					</execution>
 				</executions>
 				<configuration>
-					<showPackage>false</showPackage>
+<!--					<showPackage>false</showPackage>-->
 					<bottom>
 						This documentation is licensed by Gray Watson under the
 						&lt;a
